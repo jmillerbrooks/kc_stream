@@ -1,0 +1,11 @@
+name: kc-env
+channels:
+  - defaults
+dependencies:
+  - python
+  - ipykernel
+  - pandas
+  - matplotlib
+  - scikit-learn
+  - jupyterlab
+prefix: ./kc-env
